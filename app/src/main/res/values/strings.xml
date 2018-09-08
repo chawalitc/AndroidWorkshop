@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">App01</string>
+    <string name="app_name">BMI Calculate</string>
     <string name="helloMessage">Welcome Guy, Butter Knife.</string>
+    <string name="bmiResult">Your BMI:</string>
 </resources>
